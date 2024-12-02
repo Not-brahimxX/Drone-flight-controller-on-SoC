@@ -1,0 +1,30 @@
+00:04:33 **** Build of configuration Debug for project test_pwm_commande ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/PC-CLICK-PLUS/OneDrive/Documents/ME/ELN/seminaire/Vitis_ws/ws9/test9/export/test9/sw/test9/standalone_domain/bspinclude/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building file: ../src/pwm.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/pwm.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/PC-CLICK-PLUS/OneDrive/Documents/ME/ELN/seminaire/Vitis_ws/ws9/test9/export/test9/sw/test9/standalone_domain/bspinclude/include -MMD -MP -MF"src/pwm.d" -MT"src/pwm.o" -o "src/pwm.o" "../src/pwm.c"
+'Finished building: ../src/pwm.c'
+' '
+'Building target: test_pwm_commande.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LC:/Users/PC-CLICK-PLUS/OneDrive/Documents/ME/ELN/seminaire/Vitis_ws/ws9/test9/export/test9/sw/test9/standalone_domain/bsplib/lib -o "test_pwm_commande.elf"  ./src/main.o ./src/pwm.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: test_pwm_commande.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size test_pwm_commande.elf  |tee "test_pwm_commande.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  32764	   1616	  23336	  57716	   e174	test_pwm_commande.elf
+'Finished building: test_pwm_commande.elf.size'
+' '
+
+00:04:36 Build Finished (took 2s.916ms)
+

@@ -1,0 +1,25 @@
+02:30:01 **** Incremental Build of configuration Debug for project test_uart ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/sw/test9/standalone_domain/bspinclude/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: test_uart.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LC:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/sw/test9/standalone_domain/bsplib/lib -o "test_uart.elf"  ./src/main.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: test_uart.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size test_uart.elf  |tee "test_uart.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  45268	   2600	  23480	  71348	  116b4	test_uart.elf
+'Finished building: test_uart.elf.size'
+' '
+
+02:30:03 Build Finished (took 2s.491ms)
+

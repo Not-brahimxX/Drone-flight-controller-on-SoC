@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="zyboFC" location="C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/zyboFC" platform="C:/Users/PC-CLICK-PLUS/OneDrive/Documents/ME/ELN/seminaire/Vitis_ws/ws9/test9/export/test9/test9.xpfm" platformUID="xilinx:zybo-z7-20::0.0(custom)" systemProject="zyboFC_system" sysConfig="test9" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" dimmRepoPath="" mssSignature="942805522ebe691fd46c81f7274a9465">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.111124257">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1296746728" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  48260	   1824	  23752	  73836	  1206c	test_pwm_i2c.elf

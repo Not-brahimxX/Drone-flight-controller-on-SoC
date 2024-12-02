@@ -1,0 +1,53 @@
+23:32:33 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC-CLICK-PLUS\OneDrive\Documents\ME\ELN\Séminaire\Vitis_ws\ws\temp_xsdb_launch_script.tcl
+23:32:39 INFO  : XSCT server has started successfully.
+23:32:39 INFO  : plnx-install-location is set to ''
+23:32:39 INFO  : Successfully done setting XSCT server connection channel  
+23:32:39 INFO  : Successfully done query RDI_DATADIR 
+23:32:39 INFO  : Successfully done setting workspace for the tool. 
+23:32:42 INFO  : Registering command handlers for Vitis TCF services
+23:33:35 ERROR : Error from executing command 'addPlatformRepo': ERROR: No valid directory exists at given path.
+23:35:04 ERROR : Error from executing command 'addPlatformRepo': ERROR: No valid directory exists at given path.
+23:35:04 ERROR : An unexpected exception occurred while initializing toolchain settings for platform - design_7_wrapper
+java.io.FileNotFoundException: C:\Users\PC-CLICK-PLUS\OneDrive\Documents\ME\ELN\Séminaire\Vitis_ws\ws\design_7_wrapper\platform.spr (Le fichier spécifié est introuvable)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(Unknown Source)
+	at java.base/java.io.FileInputStream.<init>(Unknown Source)
+	at java.base/java.io.FileReader.<init>(Unknown Source)
+	at com.xilinx.sdk.utils.XFileUtils.read(XFileUtils.java:150)
+	at com.xilinx.sdx.scw.util.ScwPlatformHelper.readJson(ScwPlatformHelper.java:106)
+	at com.xilinx.sdx.scw.util.ScwPlatformHelper.internalReadJson(ScwPlatformHelper.java:99)
+	at com.xilinx.sdx.scw.util.ScwPlatformHelper.readNonEditablePlatform(ScwPlatformHelper.java:95)
+	at com.xilinx.sdx.scw.project.DsaAppPlatformCreationHandler.updateToolchainSettings(DsaAppPlatformCreationHandler.java:136)
+	at com.xilinx.sdx.scw.project.DsaAppPlatformCreationHandler.createPlatformContents(DsaAppPlatformCreationHandler.java:101)
+	at com.xilinx.sdx.scw.project.DsaAppPlatformCreationHandler.internalExecute(DsaAppPlatformCreationHandler.java:77)
+	at com.xilinx.sdx.scw.project.DsaAppPlatformCreationHandler.execute(DsaAppPlatformCreationHandler.java:59)
+	at com.xilinx.sdx.npw.ProjectCreationHandler.createPlatformFromDSA(ProjectCreationHandler.java:123)
+	at com.xilinx.sdx.npw.ProjectCreationHandler.internalExecute(ProjectCreationHandler.java:274)
+	at com.xilinx.sdx.npw.ProjectCreationHandler.access$0(ProjectCreationHandler.java:265)
+	at com.xilinx.sdx.npw.ProjectCreationHandler$1.execute(ProjectCreationHandler.java:81)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:107)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2289)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2316)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:128)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+23:35:05 ERROR : Failed to create application project
+java.lang.RuntimeException: Cannot find sdx platform with name 'C:/Users/PC-CLICK-PLUS/OneDrive/Documents/ME/ELN/Séminaire/Vitis_ws/ws/design_7_wrapper/export/design_7_wrapper/design_7_wrapper.xpfm'.
+	at com.xilinx.sdx.sdk.core.util.SdkPlatformHelper.newInstance(SdkPlatformHelper.java:39)
+	at com.xilinx.sdx.sdk.core.model.SdkProjectModel.init(SdkProjectModel.java:56)
+	at com.xilinx.sdx.sdk.core.model.SdkProjectModel.newInstance(SdkProjectModel.java:35)
+	at com.xilinx.sdx.sdk.core.SdkAppCreationHandler.executeInternal(SdkAppCreationHandler.java:74)
+	at com.xilinx.sdx.sdk.core.SdkAppCreationHandler.lambda$1(SdkAppCreationHandler.java:67)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2289)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2311)
+	at com.xilinx.sdx.sdk.core.SdkAppCreationHandler.execute(SdkAppCreationHandler.java:66)
+	at com.xilinx.sdx.npw.ProjectCreationHandler.createApplicationProject(ProjectCreationHandler.java:168)
+	at com.xilinx.sdx.npw.ProjectCreationHandler.internalExecute(ProjectCreationHandler.java:288)
+	at com.xilinx.sdx.npw.ProjectCreationHandler.access$0(ProjectCreationHandler.java:265)
+	at com.xilinx.sdx.npw.ProjectCreationHandler$1.execute(ProjectCreationHandler.java:81)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:107)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2289)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2316)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:128)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+23:35:05 ERROR : An unexpected exception occurred in the module 'reading platform'
+23:35:05 INFO  : Removed 'C:/Users/PC-CLICK-PLUS/OneDrive/Documents/ME/ELN/Séminaire/Vitis_ws/ws/design_7_wrapper/export/design_7_wrapper' from custom platform repositories.

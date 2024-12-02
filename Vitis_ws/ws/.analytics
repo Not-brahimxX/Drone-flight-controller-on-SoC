@@ -1,0 +1,4 @@
+timestamp=[2024-09-17 23:32:30], mode=WORKBENCH_START, duration=0:00:08.659, duration_ms=8659, data={}
+timestamp=[2024-09-17 23:32:31], mode=WORKBENCH_UI_INIT, duration=0:00:00.908, duration_ms=908, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-09-17 23:33:35], mode=PLATFORM_CREATION, duration=0:00:26.393, duration_ms=26393, data={platform_source=dsa, os=standalone, processor=ps7_cortexa9, platform=null}
+timestamp=[2024-09-17 23:35:05], mode=APP_CREATION, duration=0:00:26.435, duration_ms=26435, data={name=iic, project_type=sdk, os=standalone, processor=ps7_cortexa9, runtime=C/C++, platform=C:\Users\PC-CLICK-PLUS\OneDrive\Documents\ME\ELN\Séminaire\Vitis_ws\ws\design_7_wrapper\export\design_7_wrapper\design_7_wrapper.xpfm, application_type=application}

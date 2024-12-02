@@ -1,0 +1,81 @@
+TRACE::2024-06-28.20:16:42::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-06-28.20:16:42::SCWBifWriter::hardware databse : design_1_wrapper_1
+TRACE::2024-06-28.20:16:42::SCWBifWriter::bitstream found in the design
+TRACE::2024-06-28.20:16:42::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-06-28.20:16:42::SCWBifWriter::proc type : 
+TRACE::2024-06-28.20:16:42::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-06-28.20:16:42::SCWBifWriter::Device type is : zynq
+TRACE::2024-06-28.20:16:42::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-06-28.20:16:42::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2024-06-28.20:18:27::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-06-28.20:18:27::SCWBifWriter::hardware databse : design_1_wrapper_1
+TRACE::2024-06-28.20:18:27::SCWBifWriter::bitstream found in the design
+TRACE::2024-06-28.20:18:27::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-06-28.20:18:27::SCWBifWriter::proc type : 
+TRACE::2024-06-28.20:18:27::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-06-28.20:18:27::SCWBifWriter::Device type is : zynq
+TRACE::2024-06-28.20:18:27::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-06-28.20:18:27::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2024-06-28.20:19:12::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-06-28.20:19:12::SCWBifWriter::hardware databse : design_1_wrapper_1
+TRACE::2024-06-28.20:19:12::SCWBifWriter::bitstream found in the design
+TRACE::2024-06-28.20:19:12::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-06-28.20:19:12::SCWBifWriter::proc type : 
+TRACE::2024-06-28.20:19:12::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-06-28.20:19:12::SCWBifWriter::Device type is : zynq
+TRACE::2024-06-28.20:19:12::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-06-28.20:19:12::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2024-06-28.20:31:43::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-06-28.20:31:43::SCWBifWriter::hardware databse : design_1_wrapper_1
+TRACE::2024-06-28.20:31:43::SCWBifWriter::bitstream found in the design
+TRACE::2024-06-28.20:31:43::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-06-28.20:31:43::SCWBifWriter::proc type : 
+TRACE::2024-06-28.20:31:43::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-06-28.20:31:43::SCWBifWriter::Device type is : zynq
+TRACE::2024-06-28.20:31:43::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-06-28.20:31:43::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2024-06-29.01:13:29::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-06-29.01:13:29::SCWBifWriter::hardware databse : design_1_wrapper_7
+TRACE::2024-06-29.01:13:29::SCWBifWriter::bitstream found in the design
+TRACE::2024-06-29.01:13:29::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-06-29.01:13:29::SCWBifWriter::proc type : 
+TRACE::2024-06-29.01:13:29::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-06-29.01:13:29::SCWBifWriter::Device type is : zynq
+TRACE::2024-06-29.01:13:29::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-06-29.01:13:29::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2024-07-01.23:21:30::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-07-01.23:21:31::SCWBifWriter::hardware databse : design_1_wrapper_2
+TRACE::2024-07-01.23:21:31::SCWBifWriter::bitstream found in the design
+TRACE::2024-07-01.23:21:31::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-07-01.23:21:31::SCWBifWriter::proc type : 
+TRACE::2024-07-01.23:21:31::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-07-01.23:21:31::SCWBifWriter::Device type is : zynq
+TRACE::2024-07-01.23:21:31::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-07-01.23:21:31::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2024-07-01.23:26:17::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-07-01.23:26:17::SCWBifWriter::hardware databse : design_1_wrapper_3
+TRACE::2024-07-01.23:26:17::SCWBifWriter::bitstream found in the design
+TRACE::2024-07-01.23:26:17::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-07-01.23:26:17::SCWBifWriter::proc type : 
+TRACE::2024-07-01.23:26:17::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-07-01.23:26:17::SCWBifWriter::Device type is : zynq
+TRACE::2024-07-01.23:26:17::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-07-01.23:26:17::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2024-07-01.23:26:36::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-07-01.23:26:36::SCWBifWriter::hardware databse : design_1_wrapper_3
+TRACE::2024-07-01.23:26:36::SCWBifWriter::bitstream found in the design
+TRACE::2024-07-01.23:26:36::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-07-01.23:26:36::SCWBifWriter::proc type : 
+TRACE::2024-07-01.23:26:36::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-07-01.23:26:36::SCWBifWriter::Device type is : zynq
+TRACE::2024-07-01.23:26:36::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/Desktop/SEMINAIRE/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-07-01.23:26:36::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2024-09-18.00:04:57::SCWBifWriter::Found the complete platform C:/Users/PC-CLICK-PLUS/OneDrive/Documents/ME/ELN/seminaire/Vitis_ws/ws9/test9/export/test9/test9.xpfm
+TRACE::2024-09-18.00:04:58::SCWBifWriter::hardware databse : design_1_wrapper_2
+TRACE::2024-09-18.00:04:58::SCWBifWriter::bitstream found in the design
+TRACE::2024-09-18.00:04:58::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2024-09-18.00:04:58::SCWBifWriter::proc type : 
+TRACE::2024-09-18.00:04:58::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2024-09-18.00:04:58::SCWBifWriter::Device type is : zynq
+TRACE::2024-09-18.00:04:58::SCWBifWriter::Writing BIF to file : C:/Users/PC-CLICK-PLUS/OneDrive/Documents/ME/ELN/seminaire/Vitis_ws/ws9/test_pwm_i2c_system/Debug/system.bif
+TRACE::2024-09-18.00:04:58::SCWBifWriter::Writing the Zynq Baremetal bif 

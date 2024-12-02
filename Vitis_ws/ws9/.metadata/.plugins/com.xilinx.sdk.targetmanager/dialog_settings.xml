@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="_ide/bitstream/design_7_wrapper.bit" key="test_uart_ibus-bitFile"/>
+	<item value="false" key="test_uart_ibus-skip_rev_check"/>
+	<item value="Local" key="test_uart_ibus-target"/>
+	<item value="Local" key="test_peripheral-target"/>
+	<item value="" key="test_uart_ibus-bmmFile"/>
+	<item value="false" key="test_peripheral-partial_bit"/>
+	<item value="Auto Detect" key="test_uart_ibus-device"/>
+	<item value="test_uart_ibus" key="programfpga.sdxproject"/>
+	<item value="false" key="test_uart-partial_bit"/>
+	<item value="Local" key="test_uart-target"/>
+	<item value="" key="test_uart-bmmFile"/>
+	<item value="false" key="test_uart-skip_rev_check"/>
+	<item value="false" key="test_uart_ibus-partial_bit"/>
+	<item value="" key="test_peripheral-bmmFile"/>
+	<item value="_ide/bitstream/design_7_wrapper.bit" key="test_uart-bitFile"/>
+	<item value="false" key="test_peripheral-skip_rev_check"/>
+	<item value="_ide/bitstream/design_7_wrapper.bit" key="test_peripheral-bitFile"/>
+	<item value="Auto Detect" key="test_uart-device"/>
+	<item value="Auto Detect" key="test_peripheral-device"/>
+</section>
